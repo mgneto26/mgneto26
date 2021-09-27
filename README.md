@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mário Neto
 - 👀 I’m interested Programação de Computadores e eletrônica
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on BlogIoT
+- 💞️ I’m looking to collaborate on blogIoT
 - 📫 How to reach me ...
 
 <!---
