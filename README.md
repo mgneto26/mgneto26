@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mário Neto
-- 👀 I’m interested Programação de Computadores e eletrônica
+- 👀 I’m interested Electronics and Computer Programming
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on blogIoT
-- 📫 How to reach me ...
+- 📫 My repositories are private ...
 
 <!---
 mgneto26/mgneto26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
